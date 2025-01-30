@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fixoria/static/css/main.49ee5dc9.css",
+    "main.js": "/Fixoria/static/js/main.c4d7e48d.js",
+    "index.html": "/Fixoria/index.html",
+    "main.49ee5dc9.css.map": "/Fixoria/static/css/main.49ee5dc9.css.map",
+    "main.c4d7e48d.js.map": "/Fixoria/static/js/main.c4d7e48d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ee5dc9.css",
+    "static/js/main.c4d7e48d.js"
+  ]
+}
